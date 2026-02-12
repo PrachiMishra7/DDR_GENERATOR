@@ -1,0 +1,39 @@
+THERMAL IMAGING REPORT
+Property: 45 Oak Avenue, Unit 12B
+Date: January 28, 2025
+Technician: Lisa Chen
+Equipment: FLIR T540 Thermal Camera
+
+THERMAL FINDINGS:
+
+Master Bedroom - North Wall:
+Image 1 (Ceiling):
+- Cold spot detected: Temperature reading 58°F (14.4°C)
+- Surrounding area: 68°F (20°C)
+- Temperature differential: 10°F indicates moisture presence
+- Pattern consistent with water infiltration
+
+Image 2 (Wall below window):
+- Irregular cold zones detected
+- Temperature range: 60-63°F (15.5-17.2°C)
+- Room temperature: 68°F (20°C)
+- Cold pattern extends vertically from window sill
+- Shape suggests water migration path
+
+Image 3 (Window frame):
+- Thermal bridging detected at window frame
+- Air infiltration visible as cooler area around perimeter
+- Temperature drop of 8°F at frame edges
+
+Attic Space Above Bedroom:
+Image 4:
+- Wet insulation shows as cold mass: 52°F (11°C)
+- Dry insulation: 65°F (18.3°C)
+- Cold zone approximately 4 feet x 3 feet in size
+- Corresponds to bedroom stain location
+
+ANALYSIS:
+Thermal imaging confirms active moisture presence in ceiling and wall areas. Temperature differentials strongly indicate ongoing water infiltration rather than historical staining. The cold signature in attic insulation suggests roof-related water entry.
+
+RECOMMENDATIONS:
+Immediate investigation of roof integrity required. Thermal data supports hypothesis of active leak requiring urgent remediation.
