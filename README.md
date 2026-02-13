@@ -26,6 +26,12 @@ The system processes input data, generates organized reports, and visualizes sev
 - **Markdown**
 
 ---
+## 🌐 Live Demo
+
+The application is deployed on Streamlit Cloud and can be accessed here:
+
+🔗 https://ddrgenerator-cuhch3uqkslelm5yuhvhvp.streamlit.app/
+
 
 ## 📁 Project Structure
 
